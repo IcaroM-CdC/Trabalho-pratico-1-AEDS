@@ -1,0 +1,73 @@
+<Número de professores>
+<Número de compromissos professor 1> // Começam os compromissos do professor 1
+<Identificador professor 1>
+<Nome professor 1>
+<Ano agenda professor 1>
+<Prioridade compromisso 1 professor 1>
+<Dia compromisso 1 professor 1>
+<Mês compromisso 1 professor 1>
+<Ano compromisso 1 professor 1>
+<Hora compromisso 1 professor 1>
+<Minuto compromisso 1 professor 1>
+<Minutos Duração compromisso 1 professor 1>
+<Descrição compromisso 1 professor 1>
+<Prioridade compromisso 2 professor 1>
+<Dia compromisso 2 professor 1>
+<Mês compromisso 2 professor 1>
+<Ano compromisso 2 professor 1>
+<Hora compromisso 2 professor 1>
+<Minuto compromisso 2 professor 1>
+<Minutos Duração compromisso 2 professor 1>
+<Descrição compromisso 2 professor 1>
+<...> // Outros compromissos do professor 1, até o N-ésimo
+<Prioridade compromisso N professor 1>
+<Dia compromisso N professor 1>
+<Mês compromisso N professor 1>
+<Ano compromisso N professor 1>
+<Hora compromisso N professor 1>
+<Minuto compromisso N professor 1>
+<Minutos Duração compromisso N professor 1>
+<Descrição compromisso N professor 1> // Final dos compromissos do professor 1
+<Número de compromissos professor 2> // Começam os compromissos do professor 2
+<Identificador professor 2>
+<Nome professor 2>
+<Ano agenda professor 2>
+<Prioridade compromisso 1 professor 2>
+<Dia compromisso 1 professor 2>
+<Mês compromisso 1 professor 2>
+<Ano compromisso 1 professor 2>
+<Hora compromisso 1 professor 2>
+<Minuto compromisso 1 professor 2>
+<Minutos Duração compromisso 1 professor 2>
+<Descrição compromisso 1 professor 2>
+<...> // Outros compromissos do professor 2, até o N-ésimo
+<Prioridade compromisso N professor 2>
+<Dia compromisso N professor 2>
+<Mês compromisso N professor 2>
+<Ano compromisso N professor 2>
+<Hora compromisso N professor 2>
+<Minuto compromisso N professor 2>
+<Minutos Duração compromisso N professor 2>
+<Descrição compromisso N professor 2> // Final dos compromissos do professor 2
+<...> // Todas as agendas até a P-ésima, onde P é o número total de agendas a serem criadas
+<Número de compromissos professor P> // Começam os compromissos do professor N
+<Identificador professor P>
+<Nome professor P>
+<Ano agenda professor P>
+<Prioridade compromisso 1 professor P>
+<Dia compromisso 1 professor P>
+<Mês compromisso 1 professor P>
+<Ano compromisso 1 professor P>
+<Hora compromisso 1 professor P>
+<Minuto compromisso 1 professor P>
+<Minutos Duração compromisso 1 professor P>
+<Descrição compromisso 1 professor P>
+<...> // Outros compromissos do professor P, até o N-ésimo
+<Prioridade compromisso N professor P>
+<Dia compromisso N professor P>
+<Mês compromisso N professor P>
+<Ano compromisso N professor P>
+<Hora compromisso N professor P>
+<Minuto compromisso N professor P>
+<Minutos Duração compromisso N professor P>
+<Descrição compromisso N professor P> // Final dos compromissos do professor N
