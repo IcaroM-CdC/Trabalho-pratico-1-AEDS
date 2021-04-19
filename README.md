@@ -19,3 +19,5 @@
 	> make run
 
 - lembrando que para o modo de entrada por arquivos, o arquivo com as entradas deve possuir o nome "entrada.txt".
+
+- para dados técnicos e detalhes da implementação, acesse a documentação
