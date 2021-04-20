@@ -1,5 +1,5 @@
 
-# Algoritmos e estruturas de dados I
+# 💻 Sistema de gerenciamento de tempo
 
   - O primeiro trabalho prático da disciplina de Algoritmos e Estruturas de Dados 1 tem como objetivo 
   o desenvolvimento de um sistema de gerenciamento de tempo, com o intuito de solidificar o entendimento de conceitos 
@@ -9,7 +9,7 @@
   contatos digital para cada professor cadastrado. O mesmo foi elaborado na linguagem C, devendo ser compilado 
   preferencialmente usando o compilador GCC 9.2.0 e utilizando um sistema Linux com kernel 5.8.0
 
-## Como rodar o programa
+## 🚀 Como rodar o programa
 
 - Para utilizar e testar o programa é preciso ter instalado um compilador C, preferencialmente o GCC (GNU Compiler Collection).
 
