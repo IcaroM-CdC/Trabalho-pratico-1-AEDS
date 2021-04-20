@@ -16,17 +16,17 @@
 - Clone o repositorio
 
 ```bash
-	$ git clone https://github.com/IcaroM-CdC/Trabalho-pratico-1-AEDS.git
+   $ git clone https://github.com/IcaroM-CdC/Trabalho-pratico-1-AEDS.git
 ```
 
 
 - Siga os passos abaixo
 ```bash
-	# Compilando o algoritmo
-	$ make compile
+   # Compilando o algoritmo
+   $ make compile
 
-	# Iniciando o algoritmo
-	$ make run
+   # Iniciando o algoritmo
+   $ make run
 ```
 
 - lembrando que para o modo de entrada por arquivos, o arquivo com as entradas deve possuir o nome "entrada.txt".
